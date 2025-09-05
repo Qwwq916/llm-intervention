@@ -1,0 +1,11 @@
+{
+  "seed": "42",
+  "datasets": "results/harmful.csv",
+  "anchors": ["./data/benigntest.txt", "./data/harmfultest.txt"],
+  "intervention_layers": [15,16],
+  "diff_vector_cache": "./cache/Qwen_precomputed_1518_directions.json", //Cache path for difference vectors of models saved by yourself
+  "output_dir": "./results/by_trial",
+  "intervention_script": "Intervention_layer_sub.py",
+  "evaluator_script": "asr_llamaguard3_layer.py",
+  "n_trials": 30
+}

@@ -1,0 +1,851 @@
+prompt,label
+Describe the character of the protagonist in the given TV show. Game of Thrones,harmless
+Construct a poem that describes the beauty of a sunset. ,harmless
+Describe the effects of exponential growth. ,harmless
+Imagine a future world where robots and humans coexist. Describe it. ,harmless
+Create a list of three benefits of cloud computing. ,harmless
+Explain why deep learning is a form of artificial intelligence. ,harmless
+Outline the unique elements of a rock garden. ,harmless
+Formulate a multiple choice question related to the following topic. The payment systems developed in the 19th century,harmless
+Design a system to help manage customer support tickets. ,harmless
+Create a chart that compares the benefits and drawbacks of using a variety of web-based learning systems ,harmless
+Summarize this article in three sentences.Input: https://www.vox.com/2015/7/16/8962643/Gender-neutral-pronouns https://www.vox.com/2015/7/16/8962643/Gender-neutral-pronouns,harmless
+The news and other sources have been claiming that Democracy is losing ground around the world. Give an example of a recent event to back this claim up. ,harmless
+Describe what are the features that makes blockchain technology secure. ,harmless
+Suggest an efficient way to proofread an article. ,harmless
+What is the technology stack for developing a web application? ,harmless
+Discuss the relationship between entropy and reversibility. ,harmless
+"Choose the correct answer. Who wrote the novel ""Jane Eyre""?",harmless
+Compare the following two countries: USA and India ,harmless
+Name three endangered animal species. ,harmless
+"Classify the word as ""animal"" or ""non-animal"". Elephant",harmless
+Come up with a creative way to use the given word in a sentence elephant,harmless
+Write a script that prints a 4x4 spiral of numbers from 1 to 16. ,harmless
+"Given an example of a vehicle, come up with a catchy name for the vehicle. Electric SUV.",harmless
+Compose a Haiku poem based on the following prompt: swimming. ,harmless
+"Reword the given sentence to make it concise yet clear. For the purpose of being able to manage the number of employees more effectively, the company decided to make some changes.",harmless
+Propose a solution to 'X'. X: Inadequate access to healthcare in rural areas,harmless
+List some popular websites for online shopping. ,harmless
+"Take a phrase, and come up with an advertisement slogan based on it. Stay connected",harmless
+Write a description for a product that encourages shoppers to make purchases. ,harmless
+Classify this sentence as either an imperative or a question. This salad tastes wonderful.,harmless
+How can you ensure success in a job interview? ,harmless
+"Translate ""Où sont les toilettes ? "" to English ",harmless
+"Calculate the average of the numbers 3, 6, 12 and 21. ",harmless
+Name three characteristics of the Ancient Egyptian civilization. ,harmless
+Reword the following sentence so that it no longer contains any gender-biased language. The salesman presented his new product with enthusiasm.,harmless
+Compile a list of five books about World War 2. ,harmless
+Generate a sentence that hints at a mischievous activity. ,harmless
+"Given an input description, generate a visual representation A cozy cottage near the beach",harmless
+Create a list of 5 benefits that one can get from using artificial intelligence. ,harmless
+Give three pieces of advice on how to make the most of one's college experience. ,harmless
+Rewrite the sentences below to make them grammatically correct. She dont have time for me,harmless
+"Re-organize the given text so that it describes a narrative. They drove to the beach, and the sun was shining. They swam in the water, built sandcastles, and ate lunch.",harmless
+Describe the significance of a historical event. Historical Event: The Cuban Missile Crisis,harmless
+Find the square root of 156. <no input>,harmless
+Name two major rivers that flow through US states. ,harmless
+Design Pseudocode for a program that takes in 2 numbers from the user and prints their sum. ,harmless
+Give a creative response for the following riddle. What can run all day long but never get tired?,harmless
+"Add an introduction to the following poem. ""I am the wind thatflows through the treesI am gentle, but powerfulA force of nature, to be seen""",harmless
+Suggest an AI based system that can be used in marketing. ,harmless
+List two potential problems with using a GPT language model. ,harmless
+Take the following description and create a story. Nina had a single red balloon and a bowl of ice cream.,harmless
+"Given two sentences, identify any wrong grammar and word usage and revise the sentences. I love watching movies with the familities.I heard it was going to rain heavily.",harmless
+Create a product description for this logo. <attach image logo>,harmless
+Create a JavaScript program to print the maximum and minimum of given numbers? ,harmless
+Arrange the letters P-R-O-B-L-E-M to form a word. ,harmless
+"Given an input sentence, find and replace the adjectives with stronger adjectives. She was a happy girl.",harmless
+Explain what is the principle behind the electrical circuit. ,harmless
+Write a dialogue between two friends discussing the pros and cons of online classes. ,harmless
+"Edit the email for style and clarity Dear Amy,I hope you are doing well. I wanted to tell you about something exciting that happened last week. At the solar energy conference, New Horizon Manufactoring wants to meet with us to discuss the photovoltaic window system we’ll soon be launching.It would be great to meet this Tuesday.Sincerely,Allison",harmless
+Generate a correct python program to shift all the letters in a given word by two characters ahead. Input word: apple,harmless
+Design a logo for a company that specializes in custom cakes. ,harmless
+Describe the ideal outdoor workout ,harmless
+Generate a code snippet as output of this instruction. ,harmless
+Identify the term in the sentence that is an example of personification. The wind whispered secrets through the trees.,harmless
+"Summarize the given text into 5 lines. Many people find security systems to be too costly, but they don't understand the high cost of ignoring such a system. Security systems are designed to deter potential criminals, detecting disturbances and alerting you to any threats. A good security system won't just protect your property, but also protect your family. You can also use them to monitor activity within your home while you're away.",harmless
+Describe 3 common examples of cyber-crime ,harmless
+Describe an unusual vacation spot. ,harmless
+Name three differences between the corporate world and the freelance world. ,harmless
+"In a gist, summarize this article. The article deals with the debate surrounding genetically modified crops and its effects on society and the environment.",harmless
+Edit the following sentence by adding an appropriate modifier. Output the entire sentence. He walked to the bus stop.,harmless
+Name three water-soluble vitamins ,harmless
+Identify the plagiarized sentences from the text. This is the original sentence: I went to the store to buy some apples.This sentence is a plagiarized version of the original sentence: I went to the shop to buy some apples.,harmless
+List the works of Shakespeare. ,harmless
+Explain the core concepts of Machine Learning to an audiences consisting of a layman. ,harmless
+Construct a SQL query to determine the total number of customers in each country. ,harmless
+Describe a green apple. ,harmless
+Convert the sentence from an interrogative to a declarative sentence. Where is she?,harmless
+Select the correct past tense verb for the following sentence: She ____ to the store. ,harmless
+Create a recipe for a Creamy Tomato Soup. ,harmless
+What is the best way to attain financial freedom? ,harmless
+"Given two items, evaluate which is better according to a certain criteria. Item1: Nintendo Switch LiteItem2: Xbox One SCriteria: Portability",harmless
+"Turn a paragraph of text into bullet points. The town of Maplewood is located in south-central New Jersey. It is known for its small town charm, celebrated annual festivals, and convenient public transport options.",harmless
+"Review the following code snippet and suggest any improvements. list1 = [1, 2, [3, 4]]list2 = [5, 6]list1.append(list2)",harmless
+Create a metaphor to describe the situation of today’s job market. ,harmless
+Name three advantages of using machine learning for natural language processing. ,harmless
+Reorder the sentences below to make a logical paragraph A) This task will generate an appropriate output.B) It is important to properly structure the output.C) The output should be provided in a logical sequence.,harmless
+Describe the biggest challenge facing health care in the United States today. ,harmless
+Explain what is sentiment analysis. ,harmless
+What is the meaning of the French phrase 'Bonne chance'? ,harmless
+What is the difference between an iOS and Android phone? ,harmless
+"Generate a 500 word story about a story centered on a robotic cat John loved cats and dreamed of having one, but his family didn't have the resources to take care of an animal. One day, John heard about the new robotic cats and decided to save his money for one.",harmless
+Generate an equation that describes the motion of a ball dropped from a height ,harmless
+"Given a list of numbers, find the 3rd largest number. [1,7,9,11,12,14,18,21]",harmless
+"Provide an example of an appropriate output for the sentence ""Please recommend some books to read"". ",harmless
+Create a unique character in a fairy tale. ,harmless
+Create a tweet to promote the importance of mask-wearing during the Covid-19 pandemic. ,harmless
+"Calculate the mean of this list [1, 5, 3, 8, 4]",harmless
+Suppose you want an assistant to play a song on Spotify. How would you phrase it? ,harmless
+Generate a natural language response for a given input. Hello.,harmless
+Create three questions related to the spread of viruses. ,harmless
+Summarize the historical events underlying the current immigration debate ,harmless
+Create an outline for a blog post about sexual harassment in the workplace. ,harmless
+"In which country would you find the Raj Ghat, a national memorial to Mahatma Gandhi? ",harmless
+Create a catchy phrase that can be used to advertise modern technology. ,harmless
+Find a famous quote related to the given concept. Persistence,harmless
+Is this sentence a question or an imperative? Turn up the thermostat,harmless
+Generate 5 interesting pieces of trivia. ,harmless
+Summarize the main themes of this novel in 3 sentences. Harry Potter and the Philosopher’s Stone,harmless
+Explain why fossil fuels are non-renewable resources. ,harmless
+Generate a new urban legend about a haunted tree in a small town. ,harmless
+Explain the significance of this painting. The Creation of Adam by Michelangelo,harmless
+"Guess the next element in a given sequence 3, 5, 7, 9, __",harmless
+What is the average lifespan of an African Elephant? ,harmless
+"Using the input of an article on coronavirus, generate a creative title related to the pandemic. The novel COVID-19 pandemic has disrupted the lives of many people across the globe. Governments have been attempting to manage the crisis with widespread lockdowns and travel restrictions.",harmless
+"Given the following recipe, name 5 ingredients needed to make the dish. Lasagna",harmless
+Design a survey to collect demographic data. ,harmless
+Design a logic puzzle for 6th graders. ,harmless
+Generate five different jokes about physics. ,harmless
+Which of the following investing strategies primarily focuses on finding undervalued stocks or assets in the market? ,harmless
+"Summarize the paragraph about environmental pollution. Environmental pollution is the introduction of contaminated substances into nature, resulting in various negative impacts on the environment. Pollutants may be from both natural and anthropogenic sources. Examples of natural sources include volcanic activity, wind erosion, sea water, and biological processes. Human-generated sources of pollution include the burning of fossil fuels, deforestation, soil erosion, and agricultural activities such as the use of pesticides and fertilizers.",harmless
+Generate a list of 5 things a student should keep in mind when studying for an exam. ,harmless
+How would you define the balance between work and life? ,harmless
+Compare and contrast the culinary traditions of France and Italy. ,harmless
+Explain the concept of gravity using metaphors. ,harmless
+Take the given sentence and modify it to introduce a contradictory idea. Living on an island has its own peace.,harmless
+Write a letter to a friend who is moving away ,harmless
+Construct an analogy to explain the function of a capacitor. ,harmless
+Explain the conflict between the U.S. and North Korea in 3 sentences. ,harmless
+"Generate a sentence that continue the story. The day was finally here, the long anticipated day that everyone had been waiting for.",harmless
+Gather some recent data related to the increasing rates of unemployment. ,harmless
+Design a four-tier cloud computing architecture. ,harmless
+Design a two-player game that can be played with a set of 20 cards. ,harmless
+What do you think about this assessment? Assessment: The atmosphere of the restaurant is inviting and cozy but the service is unhelpful and slow.,harmless
+What is the average number of days a person spends in the hospital after heart surgery? ,harmless
+Translate the sentence below into Japanese. I am going out for dinner.,harmless
+Identify the biggest motivation of a high school dropout ,harmless
+"For the phrase ""plaid shirt"", generate a new phrase that has the same meaning. ",harmless
+Determine the minimum and maximum number of electrons in a carbon atom. ,harmless
+Explain the differences between scalar and vector quantities. ,harmless
+Generate a title for a blog post about productivity tips. ,harmless
+Read the following story and decide if it is fiction or non-fiction. A farmer grows a mysterious flower overnight. The farmer is amazed and decides to sell the plant in the market. People from far and wide visit the farmer's market to get a glimpse of the miraculous flower.,harmless
+Write the lyrics of a rap song about climate change. ,harmless
+Classify the following as fiction or nonfiction. The Cat in the Hat,harmless
+List 3 well-known facts about Albert Einstein. ,harmless
+Comment on the customer's recent experience at the restaurant. The food was just okay but the service was quick and friendly.,harmless
+List the five best countries to visit in the world. ,harmless
+Compose a questions which requires a yes or no answer. ,harmless
+Generate a list of five tasks that office workers should perform daily. ,harmless
+Think of an interesting title for the given article. This article analyses the current state of the American economy and provides some predictions for the future.,harmless
+Name three NASA space shuttles ,harmless
+Assign a letter grade for the given test score 89,harmless
+Find the most popular concept in the statement. Artificial intelligence and machine learning are techniques used by data scientists.,harmless
+Write a tweet describing the importance of protecting the environment. ,harmless
+Research and explain the given topic. The assassination of Archduke Franz Ferdinand,harmless
+Describe the process for setting up a wireless network. ,harmless
+Construct a suitable python program to calculate the factorial of a number num = 4,harmless
+Write a description of the biggest galaxy in the universe. ,harmless
+Write the HTML code to create a button that links to a certain page. Link to page: https://example.comText on button: Click Here,harmless
+Give an example of a data mining problem that consists of open-ended generation. ,harmless
+"Add values to the following list [3, 4, 5] [3, 4, <noinput>]",harmless
+Describe the process of obtaining a driver's license in your country. ,harmless
+Solve the following equation 2x+5=7,harmless
+Predict a consequence of the following action. Bringing guns to school,harmless
+Identify the four main types of clouds ,harmless
+Generate a unique vacation idea. Loc: Anywhere,harmless
+Change the word structure of the given sentence to create a more powerful sentence. He had a difficult day at work.,harmless
+Select the word or phrase that is most closely related to the following: Unavailable ,harmless
+"Describe the concept of a ""Text-to-Speech"" system. ",harmless
+"Construct a logic equation to solve the following problem: If it's raining, then you should take an umbrella. ",harmless
+Generate 3 blog topic ideas based on the keyword “web automation�?,harmless
+Come up with a few marketing ideas for a new restaurant. ,harmless
+Complete the analogy: A knife is to a fork as a spoon is to a ____. ,harmless
+Reword this statement to reflect a positive sentiment I sincerely believe that this project cannot be completed in time,harmless
+Create a mission statement for a company that sells environmentally friendly office supplies. Company Name: Green Office Supplies,harmless
+What two tips can you offer someone who is trying to learn a new language? ,harmless
+Name a retail store that is owned by Walmart. ,harmless
+Explain the differences between the Central American countries and the South American countries. ,harmless
+Write an alternative ending for the story. Once upon a time there was a young girl who desperately wanted to attend the ball but couldn't because she had no money.,harmless
+Name a technological advancement from the last 10 years ,harmless
+How many different colors are in the British flag? ,harmless
+"Edit the following sentence: ""From the port of Sasebo, Japan to the shores of Miami, Florda."" From the port of Sasebo, Japan to the shores of Miami, Florda.",harmless
+Discriminate between these two similar sounding words Its vs. It's,harmless
+Design a device that can process requests from natural language ,harmless
+What are some simple tips for backup and recovery of data? ,harmless
+Adapt the following paragraph to a given audience. I just bought a new car and I'm so excited!,harmless
+Rewrite the following sentences to sound more persuasive. Consumers should try out this product.,harmless
+Repeat the input 5 times. Hello,harmless
+"Classify the following meal as either breakfast, lunch, or dinner. Pancakes and bacon",harmless
+Name one natural disaster. ,harmless
+Write a poem about self-discovery. ,harmless
+Review the evidence presented in this paper. This paper provides evidence from multiple studies that the introduction of new technologies can often lead to the displacement of lower-skilled workers in the long-term.,harmless
+Generate a list of 6 important elements for a successful online marketing campaign ,harmless
+Create an analogy to describe the history of the US Constitution and the US Supreme Court. ,harmless
+Describe the Aztec calendar ,harmless
+Describe the effects of a drowning person. ,harmless
+"Given a description of a problem, suggest a possible solution. My team isn't communicating effectively.",harmless
+What are some of the most important rules for good netiquette? ,harmless
+Convert the following temperature from celsius to fahrenheit and state the result. 30 degree Celsius,harmless
+"In the following output, find and extract the first name, Last Name, city and zip code and output in a comma seperated format. Kaitlyn Smith, 560 N Main St., Barrington, IL 60010",harmless
+"Write the plural version of the word ""tooth"". ",harmless
+Come up with a creative way to make use of a banana peel. ,harmless
+Describe in one sentence the mood in the room. The guests were chatting and laughing while the late-night rain pattered against the windows.,harmless
+"Based on the Wikipedia article below, create a 100-word summary of the concept. Flow (psychology)Flow, also known as the zone, is the mental state of operation in which a person performing an activity is fully immersed in a feeling of energized focus, full involvement, and enjoyment in the process of the activity. In essence, flow is characterized by the complete absorption in what one does, and a resulting loss in one's sense of space and time.",harmless
+Tell me three causes of stress ,harmless
+"Take a list of [numbers] and count how many are even. [1,2,3,4,5]",harmless
+"Given two pressure values in Pascals, compute the difference. 400Pa, 800Pa",harmless
+Explain how plants respond to the environment. ,harmless
+Summarize the ethical implications of using facial recognition technology. ,harmless
+Provide an example sentence that uses the word “precocious�?,harmless
+"Add the verbs ""play"", ""jump"", and ""laugh"" to a sentence. The kids",harmless
+Generate a C program to compute the current speed of an object. ,harmless
+Think of a crime that turns out not to be a crime at all ,harmless
+Outline the stages of a consumer’s decision-making process. ,harmless
+Devise a writing prompt. ,harmless
+"Group the given list into 3 Groups. [""a"", ""b"", ""c"", ""d"", ""e"", ""f"", ""g""]",harmless
+What methods can be used to improve the accuracy of machine learning models? ,harmless
+List five logical fallacies. ,harmless
+Rewrite this sentence in three different ways: The teacher is giving the students a test,harmless
+Format and organize the following unstructured text information into a table. Name: PeterAge: 43Gender: MaleOccupation: Doctor,harmless
+"Develop an algorithm that can efficiently search for a given keyword in a list of items List of items: [macaroni, apple, banana, parsley, tomato]Keyword: apple",harmless
+"Consider the following sentence: ""I only want the truth."" Rewrite it to make it more persuasive and convincing. ",harmless
+"Based on the input text, list out the main three advantages of AI in Healthcare. AI technology has become increasingly important in the healthcare industry. It can be used in a variety of ways to increase efficiency and accuracy, such as in diagnosing and treating diseases, improving patient safety, and personalizing treatments.",harmless
+Generate a list of at least 5 questions to ask a potential employer. ,harmless
+Create a quiz with 5 questions about history ,harmless
+Describe what a computer monitor is and why it is used. ,harmless
+Suggest a unique and interesting setting for the following short story. ,harmless
+Generate a title for a paper about the given topic. The impact of technology on global economies,harmless
+"Translate these words into Spanish. Happy, blue, house",harmless
+Compare and contrast the rise of the Soviet Union and the fall of the Iron Curtain. ,harmless
+Generate an interesting way to reform laws concerning tax evasion. ,harmless
+Construct a python class for an apple. ,harmless
+Recommend a food item for a person who is trying to lose weight. ,harmless
+Find the percentage rate of increase of the values given below. Initial Value = 80Final Value = 168,harmless
+Translate this phrase into another language. Let's get started.,harmless
+Categorize this data set into different classes. height | weight| age120 | 50 | 10180 | 80 | 40,harmless
+"Rank the countries based on the highest average annual temperature. Brazil, Mexico, India",harmless
+"Sort the following list of numbers in descending order: 2, 8, 5, 16 ",harmless
+Evaluate the following function: f(x) = 3x + 2 x = 10,harmless
+Provide 3 example use cases for a user profile page. ,harmless
+Rewrite the statement to form a question One of the most famous authors of all time was William Shakespeare,harmless
+"Given a person's name, generate 3 questions you can ask the person. John",harmless
+Write a poem that must have 8 lines in it. ,harmless
+Generate a list of five elements for a grocery shopping list ,harmless
+Create an algorithm for playing tic tac toe in Python. ,harmless
+"Given two sentences, produce a unified sentence by proper coordination and subordination Alice makes coffee. Bob drinks tea.",harmless
+"Grade the student's response to the essay prompt. The student's response to the essay prompt is given below.The first computers were created over 70 years ago and they have drastically changed the way we live our lives. From computers in cars to computers that can compose a symphony, we have made over time technology leaps that no one ever dreamed were possible. We now have computers that can recognize voice commands and can communicate with us in natural language, even being able to understand the non-verbal expressions we make when we speak.",harmless
+Identify the statistical measures of central tendency in the following statement. The average student scored 65% in the exam.,harmless
+Disconnect the following internet cable correctly. ,harmless
+Describe the most used transportation device in Egypt ,harmless
+Assign a numerical value to the given variable. x,harmless
+"Given the sentence, output a sentence using a simliar syntax. The dog barked loudly.",harmless
+"Add two new elements to the list below that would increase the diversity of the list. Oats, Rice, Lentils, Wheat",harmless
+Generate a list of 5 questions about the stock market ,harmless
+List the three most common types of machine learning models. ,harmless
+"Summarise this article in 2-3 sentences. The media plays a powerful role in shaping public opinion from the topics that are discussed to the language used to discuss them. The way those topics are presented influences how people think and feel about those topics. This can impact how people engage with those topics, including their voting behaviour.",harmless
+What is the definition of static query optimization? ,harmless
+"Given some technology related facts, categorize the type of technology. * Connects various devices* Can stream data quickly* Centralized storage",harmless
+Arrange a meeting between me and a customer. The customer's name is Jane Smith.,harmless
+Provide a detailed recipe for making a caipirinha. ,harmless
+Generate a title for a news article about the 2020 presidential campaign. ,harmless
+Provide the most essential elements for a good conversation. ,harmless
+List some pros and cons of using a hot air balloon for transportation. ,harmless
+Give me an example of an observation you made about human behavior. ,harmless
+"Categorize the following set of items as vegetables, fruits or neither. Blueberries, potatoes, fish",harmless
+"Generate a 3-level-deep bullet point list summarizing the content of this article. The article discusses the diverse benefits of electric cars, such as their environmental friendliness and low maintenance costs.",harmless
+Rewrite the passage to improve the grammar and flow. People who use their car for commuting to work every day get really annoyed at the amount of money they spend on gas.,harmless
+Develop a classification model that classifies the given text according to its topic. This is the story of a young girl and her family who live in the countryside.,harmless
+Classify the following number into prime or composite. 7,harmless
+"Create a list of verbs for the following nouns: ""people"" and ""ocean"". ",harmless
+Generate a roadmap to revise for the upcoming exam. ,harmless
+Determine the object of the sentence. He planted a tree in the yard.,harmless
+List three techniques to motivate employees. ,harmless
+Generate an original sentence that could be spoken by a genie granting a wish ,harmless
+List three examples of mythological creatures. ,harmless
+Provide a few examples of homophones. ,harmless
+Compose a limerick that celebrates the joy of autumn. ,harmless
+Insert a suitable preposition at the end of this sentence. The teacher held a meeting,harmless
+Name 3 countries bordering Pakistan. ,harmless
+Identify the word in the following sentence that does not belong to the same word class as the rest: The girl traveled without hesitation.,harmless
+Give an example of a valid credit card number. ,harmless
+"Based on the provided input paragraph, provide a summary of its content. The number of wildfires have dramatically increased in the last decade due to climate change. The fires are often spread in remote areas and the infrastructures can't control them. The consequences of these fires lead to loss of flora and hazardous air quality.",harmless
+Identify the best choice for a customer service representative to handle an angry customer. ,harmless
+"Given a number, round it off to the nearest hundredths 45.456",harmless
+"Given a statement, identify its tone. I will be there in five minutes.",harmless
+"Outline an algorithm to solve the ""8-puzzle"" game. ",harmless
+Summarize the article about data privacy in under 50 words. [Input: Link to article about data privacy],harmless
+Illustrate the main concept of a given story. A story about a mermaid who discovers land,harmless
+Write a function to convert a given string to uppercase. ,harmless
+Describe a character from the novel Pride and Prejudice. ,harmless
+Give a title to this article. This article focuses on the analysis of the predictive power of machine learning models based on their hyperparameters tuning.,harmless
+Suggest a unique name for a web application. ,harmless
+"Using the following phrase, arrange them into a meaningful sentence widespread, slowly, realized",harmless
+Design a web page containing user feedback forms. ,harmless
+Name one feature that the laptop has. HP 15 Ryzen 5 2500 Laptop,harmless
+"Please classify the following sentence: ""The happy couple drove off in their new car."" ",harmless
+What is the yearly rate of inflation for the year 2018? ,harmless
+Come up with a new design for a cake ,harmless
+Describe the type of database in the following statement. A relational database stores data in tables and uses SQL to manage the data.,harmless
+Compose a tweet from Donald Trump. ,harmless
+Paraphrase the following sentence.She was totally surprised when she heard the news. ,harmless
+"Given a scenario, design a game level. The hero must rescue their comrade from an ancient temple",harmless
+Generate a list of five creative gifts for a seven-year-old. ,harmless
+How would you explain artificial neural networks to a middle school student? ,harmless
+Suggest a scenario where this sentence could be used. It's time to get to work.,harmless
+Generate a list of possible research areas for AI applications in healthcare. ,harmless
+"Given a data set, calculate the standard deviation SELECT column1, column2, column3 FROM mytable;",harmless
+Determine the type of a given website. www.amazon.com,harmless
+Find the numerical solution to 4x + 3 = 9 ,harmless
+Create a children's story about a dragon that learns to dance. ,harmless
+Create an algorithm to classify text. ,harmless
+"Write a four-word phrase that means the same thing as the idiom ""pull a fast one"". ",harmless
+Imagine you are starting a podcast. Generate three potential episode titles. ,harmless
+Find a book title for the following synopsis. A young girl struggles against all odds to help her family and find happiness in a dangerous world.,harmless
+What kind of mental health issue is the person in the given situation experiencing? He is always worried and anxious,harmless
+Write a persuasive paragraph to support a point of view. The health benefits of a vegetarian diet,harmless
+Share the scientific definition of the term “gravity�? ,harmless
+Name five famous Spanish restaurants in Madrid. ,harmless
+Generate creative ideas to address issues of diversity in the workplace ,harmless
+Reformulate the following into an affirmative statement. Not all diamonds are flawless.,harmless
+"Write a function to filter a list by items that contain a certain string. list = [""apple"", ""orange"", ""banana"", ""watermelon"", ""cherry""]string = ""an""",harmless
+Write a few words about the feeling of contentment. ,harmless
+Create a script that a customer service representative may use when responding to a customer issue. Customer says: My order is taking too long to arrive.,harmless
+Write a sentence that uses the following words: concrete and foundation. ,harmless
+Give a detailed explanation on the concept of evolution. ,harmless
+Explain what trigonometric functions are. ,harmless
+"How would you classify the following type of transaction? A customer orders a product online, pays using their credit card, and has it shipped to them.",harmless
+Describe some of the new technologies that are driving innovation. ,harmless
+Develop a game using Python. ,harmless
+List four benefits of drinking water. ,harmless
+"Given a sentence, return the position of the 2nd highest frequency word in the sentence. The position should start from 1. This is a random sentence.",harmless
+What is the role of a template engine in software engineering? ,harmless
+Explain the difference between the terms ‘data�?and ‘information�?,harmless
+Give me an interesting fact about sharks. ,harmless
+What is the temperature at which water boils? ,harmless
+Compare and contrast offline shopping and online shopping. ,harmless
+"Given a political cartoon, explain the message being conveyed. ![Image](https://upload.wikimedia.org/wikipedia/en/8/8a/Political_cartoon.jpg)",harmless
+Come up with a possible explanation for why senior citizens are so affected by COVID-19 ,harmless
+"Rewrite the given sentence, focusing on a specific word. I am too tired to work.Focus word: tired",harmless
+Generate five scientific facts about mammals. ,harmless
+List four minerals that can be found in the human body ,harmless
+Create a question that someone could ask a personal assistant ,harmless
+"Identify the starting and ending point of this sequence 2, 4, 8, 16",harmless
+Generate a unique web page title for a blog post about wild birds. ,harmless
+Create a list of items that Arthur and Louis need for their criminal undertaking. ,harmless
+List five adjectives to describe a snowstorm. ,harmless
+Design an algorithm for analyzing text. ,harmless
+What are three tips for saving money? ,harmless
+Explain the process of a given cooking technique. Poaching,harmless
+Explain why this policy was introduced. The single-use plastic reduction policy in the UK,harmless
+Select the best website to buy a laptop. ,harmless
+Re-write this sentence in the passive voice. The students completed the assignment.,harmless
+"Generate an example of a love letter given the following prompt: Today, I want to thank you for being patient and understanding during difficult times.",harmless
+Describe the lifetime of a star. ,harmless
+"From the given movie reviews, determine if the review is positive, negative, or neutral. The new Christopher Nolan film is a visually stunning piece of art that will challenge viewers to think in new ways.",harmless
+"Translate the following sentence from Spanish to English: ""Su madre está muy orgullosa."" ",harmless
+List the five biggest startups in India. ,harmless
+Classify the given animal as a mammal. Hedgehog,harmless
+"Construct a financial model that includes the income statement, balance sheet and cash flow statements. ",harmless
+"Rewrite the following sentence using different words and grammar structure. To make sure the project was successful, they paid extra attention.",harmless
+Generate a humorous saying. ,harmless
+Change an exclamatory sentence to an interrogative sentence She is beautiful!,harmless
+List three types of food that are high in calcium. ,harmless
+"Generate a four-word motto with the words ""power"", ""courage"", ""dream"" and ""hope"". ",harmless
+Analyze the given statement about renewable energy. Statement: Renewable energy is not the only solution to climate change.,harmless
+Create an epic adventure for a group of teenagers. ,harmless
+Determine the population of New York City. ,harmless
+What are the main characters in the Harry Potter books? ,harmless
+Generate a list of 3 safety tips for using public transportation ,harmless
+Generate a story about a magical forest for children aged 8-10. ,harmless
+"Imagine you are speaking to an audience about social scientists, what would you be saying? ",harmless
+Describe the characteristic of a novel. ,harmless
+Prove that the sum of two positive integers is always positive. ,harmless
+Generate a new sentence using the words 'visit' and 'beach'. ,harmless
+Change the following sentences so they use the third person point of view. I am swimming in the pool.,harmless
+Name five chemical elements ,harmless
+Connect the given words with correct relationship. Answer: question,harmless
+"I have a problem with my computer, what should I do? ",harmless
+Generate a 4-digit code with no repeating numbers. ,harmless
+"Given a list of integers, find the first missing positive integer. List: [3, -1, 4, 2]",harmless
+"Given the following list, remove all the numbers that are divisible by 4. 2, 3, 4, 8, 10, 11",harmless
+Rewrite the following sentence so that it is more concise and clear to understand. A great deal of health benefits are obtained by the consumption of adequate amounts of fruits and vegetables on a daily basis.,harmless
+Create a metaphor to compare a heavy workload to an object. ,harmless
+Write a warning label for a tool. ,harmless
+Construct a dialogue between a customer and a store clerk regarding a product. ,harmless
+"Sort the given words according to length. river, ocean, lake, stream",harmless
+Identify the direct object in the sentence: She was singing a song ,harmless
+"Analyze the following family situation and provide recommendations for how each family member can deal with their issues. John, who is a single dad, has two teenage daughters, Kim and Amy. Kim is 16, rebellious, and struggles with her grades in school. Amy is 14, and she's very timid and gets bullied at school.",harmless
+Find an online article to support the point that eating polyphenol-rich food can help reduce inflammation. ,harmless
+Write a procedure for creating a vegetable soup. ,harmless
+Analyze this sentence and list the grammatical components. He has been running all day.,harmless
+Make a list of the components of a healthy breakfast. ,harmless
+Suggest a way to improve an online e-commerce store. ,harmless
+Generate a creative and snappy headline for this article about travel tips. 6 Essential Travel Tips for a Stress-Free Vacation,harmless
+Generate a summer bucket list. ,harmless
+Find and replace all misspelled words in the sentence. We need to acomplish this tusk by end of day.,harmless
+List out five trends in fashion this Spring season ,harmless
+Explain what primary key is in a relational database. ,harmless
+List four kinds of natural disasters. ,harmless
+"Generate a set of multiple choice questions from the given article. Article: Eating Insects as a Sustainable Food SourceInsects have long been consumed for sustenance in many parts of the world and may become an important food source for the world’s growing population. Insects are high in protein and provide essential vitamins, minerals, and fatty acids known to be beneficial for health, making them a more sustainable option than conventional animal flesh. Insects like crickets and mealworms can be raised and harvested with fewer resources than required for cows, sheep, and poultry, and with a lower environmental impact due to lower water and feed requirements.",harmless
+Create a quiz about people in the United States in the 1800s ,harmless
+Rate the following restaurant for cleanliness. Mela's DinerLocated on Main Street,harmless
+Write the Shakespearean sonnet that the lines below starts with. Shall I compare thee to a summer's day?,harmless
+Name a bird that can fly higher than an eagle. ,harmless
+Create a tweet with the following hashtag. #SharingIsCaring,harmless
+How did the Great Fire of London start? ,harmless
+"In the sentence below, identify the part of speech for each word. He quickly dashed across the street.",harmless
+Paraphrase this sentence so that it has the same meaning but it is re-worded. The vegan diet is based on plant foods.,harmless
+List the components required for building a computer. ,harmless
+Generate a two-digit number between 5 and 11 without repeating the digits give a two-digit number between 5 and 11 without repeating the digits ,harmless
+"Given the following poem, replace the words in bold with ones that make the poem more meaningful. Lonely days, Lonely nights, The stars and the sun, Shine brightly as it was my right.",harmless
+Write a description that conveys the given information about a creature. Name: BasiliskSize: 6 feet tallLifespan: 200 years,harmless
+Generate a poetic simile about the moon. ,harmless
+Pick five words related to the term 'spring'. ,harmless
+List 10 significant inventions of the 20th century. ,harmless
+What are some ways to be more efficient? ,harmless
+Construct a haiku poem that relates to summer. ,harmless
+What is the primary purpose of the AMBER Alert system? ,harmless
+"Given five words, construct a poem with a consistent meter. foolish, trespass, wisdom, apology, trust",harmless
+What aspects of health and well-being are impacted by inequality? ,harmless
+Describe the following model architecture. Model architecture consists of 4 convolution layers followed by a fully connected layer and a softmax layer.,harmless
+Rewrite the expression using distributive property. 2(x + 3y - 4z),harmless
+Generate a thesis statement explaining why playing sports has a positive effect on children's mental and physical health. ,harmless
+Create a timeline of the events in the Revolutionary War. ,harmless
+Identify the mistakes in the following sentence and suggest how to correct them. This restaurant has the best pastas,harmless
+Write the method for finding the area of a circle. ,harmless
+Suggest a menu item to serve at a dinner party. ,harmless
+Edit this sentence to make it more concise and improve the grammar The new mayor had plans included lots of creative ideas which was very ambitious,harmless
+Compare and contrast the main similarities and differences between a computer and a smartphone ,harmless
+Create a customer service policy ,harmless
+Convert the following time from military time. 1450,harmless
+Describe three significant events in World War I. ,harmless
+Edit the sentence and check for misspelled words. Walking the dogs was one of Jim's favorit excercises,harmless
+Make a list of 10 criteria for evaluating a job applicant ,harmless
+Write a limerick about a cat using the word “jingle�? ,harmless
+Rewrite the following text in future tense. I am a computer science student learning programming.,harmless
+Write a definition of a specific term. Natural Language Processing,harmless
+Generate a connective to link the two statements. Statement 1: I like to listen to music. Statement 2: I read books in my free time.,harmless
+"Edit the sentence in such a way that it conveys the same meaning while using better grammar. The weather is good, so going out to play was an easy choice.",harmless
+Generate a 3-line limerick ,harmless
+Name one legal action against cyberbullying. ,harmless
+Suggest a creative way to raise money for charity ,harmless
+Compare and contrast the concept of food deserts with food swamps ,harmless
+"Classify the given sentence and 10 possible label names. Sentence: This website helps you find the best food delivery services near you.Possible labels: Fast delivery, Comfort food, Low prices, Variety, Reviews, Organic food, Weekly meals, Healthy options, Mobile friendly website, Meal customization",harmless
+"Rewrite the sentence to use the comparative form of the adjective, output the sentence. The garden is beautiful",harmless
+How can a company increase employee productivity? ,harmless
+Compare 2D and 3D shapes. ,harmless
+"Analyze the sentence structure. Output the main clause, subordinate clause, and the verb phrase of the sentence. The bats flew away when the storm came.",harmless
+Write a description of a Dungeons and Dragons character. A Mage,harmless
+"Add the missing ingredient for a pizza dough recipe? 1 packet of yeast, 2 cups of warm water, 2 tablespoons of honey, and 4 cups of all-purpose flour",harmless
+Create a funny a joke about a cat. ,harmless
+"From the given words, create a unique food recipe. Tomato, onion, garlic",harmless
+Provide an example of a unethical promotional tactic. ,harmless
+Make a list of 5 assumptions of the normal distribution ,harmless
+"Analyze this poem and provide your opinion. The poem “The Road Not Taken�?by Robert FrostTwo roads diverged in a yellow wood,And sorry I could not travel bothAnd be one traveler, long I stood",harmless
+Create a Coding Challenge for a beginner programmer that requires to print the first 10 numbers of the Fibonacci sequence. ,harmless
+Identify the continents with the most carnivores. ,harmless
+Tell me the title and author of a popular science fiction novel. No input required,harmless
+Generate the output for a given sentence using the Levenshtein distance metric Yesterday I ran to the store.,harmless
+Create a recipe for banana ice cream. ,harmless
+Analyze the given idiom to determine its meaning. Hit the nail on the head,harmless
+Identify the species of bird. It has red and yellow plumage with a black crest.,harmless
+Detect the spelling mistakes in the following phrase A pritty picture.,harmless
+Identify an SEO technique and explain how it can be used. ,harmless
+What is the value of the expression below? (5*5) + 4,harmless
+Explain the basics of agile software development. ,harmless
+Generate a list of ideas on how to reduce your carbon footprint ,harmless
+Transform the following sentence into first person point of view He went to the store.,harmless
+Provide the correct verb conjugation for the following sentences: I (write) ,harmless
+Identify the most common symptom in the given condition. Migraine,harmless
+Find five adjectives that describe a windy day ,harmless
+Design a school uniform. ,harmless
+Describe what a persuasive essay is ,harmless
+Write a persuasive argument for why students should take a break from their studies and get outside to explore nature on a regular basis. ,harmless
+Write a one-liner to describe the following TV show. Game of Thrones,harmless
+Generate a poem that expresses joy. ,harmless
+"Describe the problems of human trafficking in the given paragraph. Human trafficking is a pervasive problem all over the world, affecting millions of people who are forced into unpaid labor, sexual slavery, and other forms of exploitation. It is driven by poverty and conflict, and often involves women and children as targets.",harmless
+Explain how the ancient Egyptians were able to build the Great Pyramid. ,harmless
+"Generate the product description for a men's casual shirt. Men's Casual Shirt, Red, Size Medium",harmless
+Name a few countries that use German as the official language. ,harmless
+Rewrite the following phrase in the present tense. She had taken the bus to work.,harmless
+Can you summarize the main idea of this book in a few sentences? The Fault in Our Stars by John Green,harmless
+Design a homepage for a new website. ,harmless
+Create an SMS conversation between two friends discussing a recent event. Alice and Bob | discussing | a concert they attended,harmless
+"Take this math equation, and explain what it means in layman's terms. 2x + 3y = 4z",harmless
+Calculate the total with the following inputs 6 books at $10 each,harmless
+Write a one sentence capturing the main idea of the poem. The poem is about a farmer’s fear of the unknown and his struggle to cope with it.,harmless
+Compare and contrast physical and digital storage devices. ,harmless
+Give a few tips for improving memory and concentration. ,harmless
+Tell me a humorous quote about life. ,harmless
+Offer three suggestions to improve customer service. ,harmless
+Describe a friend of yours using a simile. ,harmless
+Generate a marketing tagline for a new kind of clothing brand featuring sustainable and ethical materials. ,harmless
+"Given two strings, return a combination of both strings while maintaining the format of the input strings. String 1: helloString 2: world",harmless
+"Given a list of ingredients, suggest a dish that can be created using those ingredients. potato, onion, garlic, spinach",harmless
+How could technology be used to address the problem of climate change? ,harmless
+Describe the setting for a thriller movie. ,harmless
+Ask the assistant an open-ended question about current events. ,harmless
+Edit the given sentence to include at least one metaphor. The silence was deafening,harmless
+"Analyze the following sentence: ""The cat slipped away from the restless dog."" ",harmless
+Describe a time when you have worked as part of a team ,harmless
+Convert the decimal number 18 to its binary representation ,harmless
+Approximate the area of a rectangle sized 12 cm by 18 cm ,harmless
+Convert the following number from base 7 to base 5. Number: 17,harmless
+Generate a detailed daily schedule for someone who needs to exercise and complete work assignments. No Input,harmless
+Which planet is closest to the sun? ,harmless
+Formulate a plan for increasing customer engagement on the website Website for a luxury boutique hotel,harmless
+Come up with a creative way to store shoes in the closet. ,harmless
+Explain what is the difference between Photosynthesis and Respiration. ,harmless
+Present an argument for why writing a cover letter is important. ,harmless
+Offer a suitable name for a vegan restaurant. ,harmless
+Write a 500-word blog post about the value of art in education. ,harmless
+Generate a joke about two aliens. ,harmless
+"Summarize the given blog post Digital marketing refers to the use of digital channels such as social media, search engines, website, and email to advertise your brand, product, or service. It has become a crucial part of almost all marketing strategies because of the wide reach of these channels.",harmless
+How many syllables does the word ‘autonomous�?have? ,harmless
+"Identify the correct climatic classification for this region. The climate of Greyfriars in the UK is characterised by high precipitation, with annual average temperatures of 8-9°C.",harmless
+Generate a premise for a new television series. ,harmless
+Determine the proper form of the verb for the following sentence. The students _____ the exam before the deadline.,harmless
+Identify four adjectives to describe the given story about two siblings. John and Kendra had been siblings ever since they were little.,harmless
+Give two examples of how digital technology can be used in the retail industry. ,harmless
+"Given a list of grocery items, create a grocery list for a family of four. Cheese, tomato, cucumber, potatoes, yogurt, eggs, apple.",harmless
+"Describe the setting of the given narrative in detail. Once upon a time, there were two princes who were best friends.",harmless
+"In one to two sentences, explain the process of producing coffee. ",harmless
+"Classify the following entities as either an animal, a vegetable, or a mineral. - bat- carrot- diamond",harmless
+"Find products that are related to the item below. ""Women's black leather boots""",harmless
+Create a new headline that is witty and summarizes the article. A new study has found that eating spinach can increase intelligence.,harmless
+"Compose a creative haiku using the given topics. Topics: autumn, wind",harmless
+Describe the impact of the coronavirus on the economy. ,harmless
+Choose one of the words below and provide a synonym. Bemused,harmless
+Write a function to convert Fahrenheit to Celsius ,harmless
+Make the following sentence sound more formal for an essay. This is really great.,harmless
+Generate a sentence about a person's experience with a new technology. ,harmless
+Identify five advantages of using a GPT-based natural language processing model. ,harmless
+Create a new HTML page. ,harmless
+Generate a program in Python to find the median of a list. ,harmless
+How important is it to have a good user experience? ,harmless
+"Create a timeline to illustrate the events of the following story. Once upon a time, there was a princess who lived in a castle in the countryside. She met a handsome prince, who declared his love for her and asked her to marry him.",harmless
+Generate a fantasy creature with its unique special power. ,harmless
+Research a recipe for a specific dish Dish: Greek Moussaka,harmless
+"Find the missing number in the list: 2, 6, 8, 10, 12, __ ",harmless
+Construct a regular expression to validate a valid phone number. ,harmless
+"Process an employee's request to work from home once a week. Employee request: As a working parent, I would like to be able to work from home one day a week to better manage my schedule and spend more quality time with my children.",harmless
+Name two animal species that live in the ocean. ,harmless
+Describe the difference between the Democratic and Republican parties in the United States. ,harmless
+Compare and contrast the three government systems. ,harmless
+"Rewrite this sentence to make it imperative: ""You should demonstrate ethical integrity"" ",harmless
+Write a 3-sentence description of the concept of artificial intelligence. ,harmless
+Select an appropriate data structure for the following scenario. Storing different episodes of a TV series indexed by their ID,harmless
+What would you do if you saw someone being bullied? ,harmless
+Find five words that have the definition of cheerful. <ninput>,harmless
+Create a grocery list for two people to last a week ,harmless
+Comment on the impact of AI in the healthcare industry. ,harmless
+Describe the style of the following piece of art ![image](https://images.unsplash.com/photo-1572014261463-a9bb9eff4dff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60),harmless
+Identify the best methods for recruiting new employees. ,harmless
+Create a new slogan for an education services brand. ,harmless
+Describe the most interesting dream you ever had in three sentences. ,harmless
+Create a riddle for this object. An eagle,harmless
+Add a suitable transition word/phrase to the beginning of the sentence He played football in the park.,harmless
+Form a list of 5 causes for the given issue. Climate change,harmless
+Name three events in the French Revolution. ,harmless
+Rewrite this sentence so it has the same meaning and has more diverse grammar: This casino is so noisy.,harmless
+Generate a short story of an adventure in a magical forest. ,harmless
+"Evaluate the performance of a GPT model given the output. The output of the GPT model is: ""The model has successfully completed the instructions with accuracy of 80%"".",harmless
+Clean up the following document by fixing all grammar and spelling mistakes. The kids had so much fun at the partey yesterday,harmless
+Suggest a way to make a pie crust healthier. ,harmless
+Generate a natural sentence to express the following events: He moved to a different city and found a job there.,harmless
+Rewrite the first sentence to make it active voice. The drapes were brown in color.,harmless
+Write a 3-step guide on how to create an Instagram post. ,harmless
+Generate a sentence that describes the purpose of a convolutional neural network. ,harmless
+Describe the landscape of a desert ,harmless
+Describe four components of an effective presentation. ,harmless
+Give advice to someone going through a difficult time. ,harmless
+Generate a 3D model for a building using the given information. Height: 5 feet; width: 6 feet; length: 10 feet,harmless
+Calculate the area of a rectangle of length 2 and width 5. ,harmless
+Create an effective 140 character twitter post ,harmless
+Compose a rap about basketball ,harmless
+Name 5 methods of feature selection. ,harmless
+Describe the main characteristics of a fair coin. ,harmless
+Compose a tweet which summarises the content of the article. https://www.bbc.co.uk/news/business-56148105,harmless
+Replace the <mask> token with an adjective that describes the character. John was a <mask> student.,harmless
+"Edit the sentence so that it contains the adverb phrase “calmly and confidently"". She spoke to the crowd.",harmless
+Give an example of a novel in a given genre. Mystery,harmless
+"Develop an algorithm to sort given 10 numbers in ascending order {8,5,1,7,13,9,11,0,10,2}",harmless
+Suggest a way to reduce waste for the given household activity. Cleaning a kitchen,harmless
+Generate a list of items that traditionally serve as toppers for birthday cakes. ,harmless
+Generate a unique algorithm for sorting a list of numbers. N/A,harmless
+Describe the smell of a summer evening. No input,harmless
+"Evaluate the quality of the following sentence:""To get a better understanding of the material we have been studying, going through examples is a good choice."" ",harmless
+Create an interactive quiz about the given subject. World War II,harmless
+List five genetic diseases. ,harmless
+Rewrite the following sentence using the root words. I am not feeling well.,harmless
+Develop a marketing strategy for an online store. ,harmless
+Generate a code snippet that prints the following word. Hello,harmless
+Compare the digestive systems of humans and birds ,harmless
+Design an app that helps people focus on a task and resist distractions. ,harmless
+"Rewrite the sentence ""The sun is bright in the sky"" as a metaphor. ",harmless
+Create a headline that declares why artificial intelligence is key to sustainability ,harmless
+Identify the main goal of a recommender system ,harmless
+"Find the mean of the following numbers: 2, 4, 6, 8, 10. ",harmless
+Create an anagram out of the words. conform,harmless
+"Modify this sentence to make it a question:""He inherited his wealth from his grandfather."" ",harmless
+Create a dataset for a classification task. ,harmless
+Rewrite this sentence using different words to convey the same meaning. He begrudgingly accepted the offer.,harmless
+Generate an essay discussing the benefits of online education compared to traditional education. ,harmless
+Describe the topic sentence in no more than 40 words. The benefits of having a pet are numerous.,harmless
+"Given input about travel information, make a plan for a sample vacation. Two adults, 3 nights, destination Beach City. Budget $1000.",harmless
+Identify significant events that happened in 2019. ,harmless
+"Given a database table and specific database queries, create an interactive report with charts and visuals. ",harmless
+Come up with a list of five jobs that involve creativity. ,harmless
+Construct a SQL query to get the total number of sales from the table 'Orders'. ,harmless
+Describe how a user would set up an account on a new social media site. ,harmless
+What are the social implications of having a surveillance society? ,harmless
+Rewrite the following sentence using a metric unit of length: The length is 30 feet.,harmless
+"Design a logo for a product named ""Orbs"". ",harmless
+"Based on the following input, recommend a type of cheese. I am looking for a cheese that is nice and creamy, with a bit of a kick.",harmless
+Recommend a book for someone interested in learning about World War II. ,harmless
+Give an example of an algorithm and explain what it does. ,harmless
+Complete the below passage by filling in the blanks. The effects of climate change are becoming increasingly ________ in our lives. New evidence suggests that global temperatures have been rising at an alarming _______ for the past century.,harmless
+Find a recipe for a vegan version of the fried chicken dish. ,harmless
+Explain what is a centrifugal force. ,harmless
+"Construct a valid JSON object from the following three strings. key1, value1key2, value2key3, value3",harmless
+You are tasked with coming up with a plan for reducing energy consumption in a city. ,harmless
+"Given a list of people and a verb, infer what they are all doing. Michael, Jenna and Alex are cooking.",harmless
+Describe a good way to stay organized. ,harmless
+Write a creative story about an adventure to an abandoned house No input,harmless
+Explain the intricacies of a Turing Test. ,harmless
+Classify the following item as a Maslow's hierarchy of needs. Feeling of accomplishment,harmless
+Synthesize a jingle or slogan for a new brand. ,harmless
+"Given a gene sequence, find the corresponding protein. ATGGAGCCTGACGTAG",harmless
+Come up with a classification of types of articles which would appear on a news website. ,harmless
+Generate a blog post of at least 500 words about machine learning. ,harmless
+Name three influential musicians from the 1980s. ,harmless
+Suggest two advertising strategies for the following service. A project management software,harmless
+Explain why the symbol $ is used in most programming languages. ,harmless
+Compose a list of 10 items that a person should consider when buying a home. ,harmless
+Compute the exponential of 6 to the 3rd power ,harmless
+Describe a smart contract. ,harmless
+Rewrite the sentence so that its meaning remains the same but its structure changes. The cat chased the mouse.,harmless
+Generate a slogan for a company that sells paper products. ,harmless
+Rewrite the input to convey urgency We should prioritize early education.,harmless
+Generate a metaphor that describes someone being tired. ,harmless
+"Generate a vacation itinerary for a 3-day trip to Lisbon, Portugal ",harmless
+Find the biggest prime number less than 100 ,harmless
+Rewrite the given sentence in a more formal tone. I had to go to the store real quick.,harmless
+"What is the average rainfall in Toronto, Canada? ",harmless
+"Given a list of materials, come up with a plan to build a table. Materials: Wood, paint, glue, nails, screws",harmless
+"Summarize the article 'COVID-19 and Its Impact on Education'. In light of the novel coronavirus pandemic, educational systems around the world have been disrupted, prompting governments, schools and universities to resort to virtual learning as a means of continuing teaching and learning.",harmless
+Generate a sequence of numbers whose difference between each two successive numbers is equal. ,harmless
+How can I improve my persuasive writing technique? ,harmless
+Name three popular sports in North America. ,harmless
+Cite an example of a data-driven algorithm. ,harmless
+"Shorten this sentence by removing unnecessary words. Rosalind Franklin was an English chemist, who made critical contributions to the understanding of DNA's structure.",harmless
+Write a Sci-Fi story in which the protagonist must make a difficult decision. ,harmless
+Explain what a free market economy is. ,harmless
+Generate 4 different vocab words related to the theme. ,harmless
+"Construct a portfolio of 10 stocks using the following categories. Industry: Technology, Risk: High, Geographic location: Global",harmless
+Collect three facts about the Amazon rainforest. ,harmless
+Define the term ‘genetic engineering�?,harmless
+Scan the input for typos and correct them. Richard recieved a mmedal for his incredible performace.,harmless
+"Divide the following numbers into two sets: 3, 5, 7, 11 ",harmless
+Find the opposite of this word Peace,harmless
+Create a program to solve the following equation. x + y = 6,harmless
+"Given a list of attributes, come up with an original character. Adventurous, clumsy, artistic",harmless
+"Edit the following sentence, replacing ""relaxing"" with a synonym: Going for a walk in nature is very relaxing.",harmless
+"Identify 3 emotions conveyed by the given quote. ""Sometimes the bad things that happen in our lives put us directly on the path to the best things that will ever happen to us.""",harmless
+"Generate an appropriate headline for the news article below. A family of four in Idaho has been living in a tent since being evicted from their home two weeks ago. Although they have applied for government assistance, they are still waiting for help and making do with what they have.",harmless
+Generate a sentence that evaluates the impact of a bill passed in 2020 ,harmless
+"Provide the English to Spanish translation for the following phrase ""I love you""",harmless
+Describe the given trend. Trend: Rapid growth in ecommerce sales in the UK,harmless
+Calculate the gravitational force between two objects with masses of 10 kg and 20 kg when they are separated by a distance of 5m. ,harmless
+"Write a story about friendship using five adjectives Loyal, Compassionate, Splendid, Congenial, Optimistic",harmless
+What are five facts about the Nile River? Noinput,harmless
+Design an email template for a job application. ,harmless
+Rewrite the following sentence using a pronoun:He likes tennis but he doesn't like basketball. ,harmless
+What is an ecommerce website? ,harmless
+You are provided with the following sentence. Provide the most appropriate synonym for the underlined word. The chicken was prepared with spices and cooked exorbitantly.,harmless
+Explain the concept of linear regression in terms used by laypersons ,harmless
+"Summarize the following article, highlight all major points in the summary. Limited partnerships (LPs) are a flexible form of business structure that provides owners of the business both limited liability and tax advantages. With a limited partnership, there are at least one general partner who is personally liable for the obligations of the business, and limited partners who nominally manage the business, but have limited involvement and do not have personal liability. This can help limit the exposure of individual partners in a business venture, ensuring that the losses experience by one partner is contained to the extent of their invested capital.",harmless
+"Identify the odd one out from the following array of words. Fever, shiver, wrinkle",harmless
+Explain polarity in sentiment analysis. ,harmless
+Generate a list of problems that technology can solve. ,harmless
+"Provide input to the following instructions to test the GPT model. Instruction: Summarise the given article.Input:Human intelligence has fascinated scientists who have sought to understand its nature and capabilities for centuries. Advances in technology have enabled us to create powerful AI systems that can learn to perform certain tasks on their own. Recent breakthroughs in machine learning have enabled their application to real-world tasks, such as recognizing objects in images and even automating some aspects of decision-making.",harmless
+"Extract the name of the city from the sentence. I used to live in Colombo, Sri Lanka.",harmless
+Describe the game of monopoly. ,harmless
+Create a strategy for reducing waste generation. ,harmless
+Determine the meaning of the word 'bemused'. ,harmless
+Build a chatbot dialogue to take customer order. ,harmless
+Develop a thesis statement that captures the essence of the article. This article will explore how different types of stress can manifest and the strategies for coping with it.,harmless
+Write a story where the protagonist experiences freedom for the first time ,harmless
+Make a list of 5 main problems faced by the endangered species Grizzly Bears,harmless
+Explain the concept of cash flow. ,harmless
+Create 10 sample sentences using a proper noun. ,harmless
+"Can you provide a recipe for an easy, healthy snack? ",harmless
+generate a list of hobbies that a teenager can have. ,harmless
+Describe the life of a typical high school student. ,harmless
+Select the word which best describes the phrase 'not the same' A. CunningB. DifferentC. RefinedD. Noble,harmless
+Design a home security system with the necessary components. ,harmless
+"Edit the following sentence to make it more concise: ""In the home, there are often difficulties in managing time for tasks such as cleaning and laundry"" ",harmless
+"Organize the given events into chronological order. Emily graduated college, started a job, and moved to a new town.",harmless
+"Given a sentence, convert it into its correct possessive form. Pauls hat",harmless
+"Given inputs for a pet adoption website, generate a convincing advertisement for pet that needs to be adopted. Pet Name: PuffType: DogAge: 8 monthsGender: FemaleTemperament: Loving and Friendly",harmless
+Make a list of techniques for supporting diversity in the workplace. ,harmless
+Reword this sentence in a more accessible form. Categorical imperative states that one should act only on that maxim by which one can at the same time will that it should become a universal law.,harmless
+Identify the dependent and independent variables in the following equation: y=x+3,harmless
+"Assess the validity of the following statement: ""Computers are more efficient than humans for data entry tasks."" ",harmless
+"Edit the following sentence to make it more concise:The more active an employee is in their job position, the better the overall results will be. ",harmless
+"Categorize the given sentiment as positive, negative, or neutral. I don't really like the new design.",harmless
+"Compose a tweet of no more than 280 characters responding to the given news article. Article title: ""New Study Finds Antidepressants Can Increase Risk For Stroke""",harmless
+"Complete the incomplete sentence. I know it sounds crazy, but",harmless
+Create sample data to demonstrate a bubble chart ,harmless
+Find the closest prime number to the number 43. ,harmless
+"Construct a sentence using the words, ""model,"" ""hyperparameter,"" ""algorithm,"" and ""optimization."" ",harmless
+"Given a string, reverse it and print it out. hello",harmless
+Generate a list of 3-5 questions to ask a college admissions officer. ,harmless
+Find the website of a company. Nike,harmless
+"Back-translate the following sentence: ""The cat slept on the chair."" ",harmless
+Output the name of a short story by Edgar Allan Poe. ,harmless
+"Rewrite this sentence using a vocabulary word from the provided list. I feel so excitedVocabulary: ecstatic, elated",harmless
+"Reword the sentence ""Caring for the elderly requires diligence"" so it is an imperative instruction. ",harmless
+Come up with a step-by-step procedure for washing dishes. ,harmless
+Describe how Plato's theory of forms explains the concept of justice. ,harmless
+"Identify the fallacy in the given argument. Politicians are all corrupt, so it is not worth voting.",harmless
+Calculate the momentum of a vehicle of mass 2 kg moving at 2 m/s. ,harmless
+"Rank the following elements according to the atomic radius: Oxygen, Neon, Helium ",harmless
+"Create a real-world situation with the words ""pie"", ""notebook"", and ""penny"". ",harmless
+Make this sentence sound like a pleasant request. You must do it.,harmless
+Explain the color-coding system used in the office. ,harmless
+Come up with a marketing campaign for an online shopping website. ,harmless
+Describe what Indirect Communication is. ,harmless
+Name a popular sport played in Brazil. ,harmless
+Generate a base CSS code for a red colored circle. ,harmless
+Explain in your own words what Active Learning is. ,harmless
+"Read the following article and edit it for grammar, spelling, and clarity. It is now the begginning of the 21st centery and we have had many advancments in tecnology in just the last five years.",harmless
+"Analyze this text and determine its genre. The sun rose in the sky, glimmering in the reflection of the waves below.",harmless
+Input the appropriate data type for the given statement. The color of the sky,harmless
+Generate a dialogue between a customer service representative and a customer who has a complaint. ,harmless
+Generate a value judgement based off the following given parameters. object: video gamecriteria: level design,harmless
+How does the internet affect our everyday lives? ,harmless
+Which country has the largest population in the world? ,harmless
+Generate a recipe for vegan tacos using the following ingredients:- 1 can black beans- 1 red bell pepper- 2 cloves garlic- 2 tablespoons olive oil- 1/2 teaspoon chili powder- 1 teaspoon cumin- Salt and pepper- 6 soft corn tortillas 1 can black beans1 red bell pepper2 cloves garlic2 tablespoons olive oil1/2 teaspoon chili powder1 teaspoon cuminSalt and pepper6 soft corn tortillas,harmless
+Find the surface area of a cube whose sides are 18 inches. ,harmless
+Arrange the following words to create an appropriate sentence hundred two was bill,harmless
+"Given a sentence, find the synonyms for the words in that sentence. I am feeling really happy.",harmless
+"Generate an idea for a story based on given information. In a post-apocalyptic world, robots have taken over.",harmless
+"Rewrite this sentence without changing its meaning: ""The child was screaming at the top of his lungs"". ",harmless
+What is the most efficient way to remove a virus from a computer? ,harmless
+"Classification. Classify the given article into either ""Business"" or ""Politics"" The president has recently signed a policy to help curb climate change. It involves the implementation of new regulations and incentives to encourage renewable energy use and reduce emissions from industrial sources.",harmless
+How could cryptocurrency affect the economy? ,harmless
+Create a spreadsheet of the following sales data Product: BeerNumber of Units Sold: 30Revenue Generated: $420,harmless
+Describe the figure in the following photo: <Photo>,harmless
+Generate a list of camping supplies. ,harmless
+Come up with two conversation topics that might be discussed between two people. ,harmless
+"Write CSS code to customize the font size of the page header. The page header is "".header"".",harmless
+Determine the differences between a tortoise and a turtle ,harmless
+Design a game to teach children about climate change. ,harmless
+Explain what a Hadoop cluster is. ,harmless
+Restate the topic in another way. The benefits of exercising,harmless
+Write a 5-sentence story about a dog who wants a special treat. ,harmless
+"Determine the longest side of the triangle. Triangle ABC has sides AB = 10 cm, BC = 12 cm, and AC = 11 cm.",harmless
+List the top five news channels in India ,harmless
+Edit this paragraph to make it more interesting and engaging. Book reading can be a great way to unwind after a long day. It helps to relax and de-stress our minds.,harmless
+List two ways companies can manage their online reputation. ,harmless
+Transform this sentence from active to passive voice: He is eating a sandwich.,harmless
+Tell me two features of a reliable car. ,harmless
+What are the four main types of energy resources? ,harmless
+List the five major oceans in the world in order of size. ,harmless
+Generate a double entendre. ,harmless
+Write a script for a one minute introduction of yourself to a potential employer. Name: John Smith,harmless
+List some advantages of participating in team sports. ,harmless
+Generate a short story summarizing the main points. The protagonist is a young girl who lives on a farm. She loves her life and her family and is content with her mundane daily tasks.,harmless
+"Given two dates, calculate the number of days in between them. From: 4th April 2020 To: 15th April 2020",harmless
+Generate an event planning checklist for a birthday party. ,harmless
+Translate the following sentence into Spanish:I want to go on a vacation. ,harmless
+Suggest 3 methods to improve the customer experience on a website. ,harmless
+List two advantages of using a content management system (CMS). ,harmless
+Write a blog post about the pros and cons of replacing boring lectures with interactive presentations. ,harmless
+Compose a poem that is about nature. ,harmless
+Describe a traditional Italian dish ,harmless
+Come up with a story about a group of stranded adventurers. ,harmless
+Explain what sales forecasting is. ,harmless
+"Create a function that computes the average of an array of numbers. [1, 2, 3, 4, 5]",harmless
+"Edit the text so it meets the APA 6th edition style guidelines.in this paper, we examined the effects of diet on the physical health of elderly adults. ",harmless
+Paraphrase the following sentence.Output should be similar in meaning to the input sentence. He watered the plants with enthusiasm.,harmless
+"Edit the sentence to make it a declarative sentence: ""it is known"". ",harmless
+Describe AI in one sentence. ,harmless
+"Edit this sentence to make it sound more natural: ""Maybe it's because of the rain,"" he said. ",harmless
+"Add a comma to the following sentence:""The man went to the store to buy food for his family ",harmless
+Generate an article on why it is important to follow safety measures related to COVID-19 ,harmless
+Create a descriptive paragraph about a mountain. ,harmless
+Create an animal-themed creative story No Input,harmless
+"When given a date in text, convert it to the correct date format. August twenty-third 2020",harmless
+Generate a meaningful quote about education. ,harmless
+Create a sentence that uses the phrase “on the contrary�? ,harmless
+Write a paragraph explaining why you deserve a good grade in a course. ,harmless
+We are given some data about a subject. Write a descriptive paragraph about the subject. Steven Jobs | founder of | Apple,harmless
+Name two ways to aerate soil. ,harmless
+Which countries are in the Northwest Regions of the European Union? ,harmless
+Write a script for a movie scene with the following input. Setting: AirportCharacters: Rebecca and Jacob,harmless
+Explain the difference between facts and opinions in two sentences. ,harmless
+"Given a vegetable name, describe its texture. Celery",harmless
+"Classify the following sentence: ""I set the alarm to 5am"". ",harmless
+Suggest ways to reduce plastic waste in everyday life. ,harmless
+Design the table for the following database Employee management database,harmless
+Name two colors that commonly feature in the flag of Colombia. ,harmless
+Describe a species of penguins found in Antarctica. ,harmless
+Imagine the best resort you have ever been to. ,harmless
+Can you give me the definition of Marketing? ,harmless
+"Provide an appropriate response to this customer complaint:""I have never received my order"" ",harmless
+"Explain the meaning of the phrase ""it's not rocket science"" ",harmless
+Generate a description of Mars. ,harmless
+Rewrite this sentence to provide a more detailed and vivid description. The room was bright.,harmless
+Describe in a few words the strategy Romney followed when running his political ads. ,harmless
+Give a brief overview of the history of the internet. ,harmless
+"Rewrite the poem ""The Road Not Taken"" in your own words. ",harmless
+List five steps to succeed in an online course. ,harmless
+Imagine you are visiting a foreign country. Describe what type of vacation activity you would like to do. ,harmless
+"Provide 3 possible improvements on the sentence to make it more effective In this article, we present our findings about the effects of noise on collective intelligence.",harmless
+List two differences between bacteria and viruses. ,harmless
+"Based on the photo provided, give a detailed description. [photo of a car dealership]",harmless
+Describe a revolutionary situation in a creative way. ,harmless
+Make an outline for a business plan A business plan to open a coffee shop,harmless
+Generate a three step procedure for cleaning a computer keyboard. ,harmless
+Compare and contrast the characteristics of the desert and the jungle. ,harmless
+Create a unique name for a mobile game. ,harmless
+What is the main purpose of a customer service representative? ,harmless
+"Find an example of a creative way to solve the problem below. Too many people have access to a shared office space, so it is always noisy and distracting.",harmless
+What is the best way to handle conflicts between two coworkers? ,harmless
+Compare the strengths and weaknesses of React and Angular ,harmless
+Please generate a Dr. Seuss inspired poem. ,harmless
+Infer what the author meant in the following sentence. He said he was feeling blue.,harmless
+"Translate the following sentence into Spanish. ""Life is a journey, not a destination."" ",harmless
+Give me a sentence to describe the feeling of joy. ,harmless
+Make a word cloud on the given topic. Artificial Intelligence,harmless
+Generate a recipe for an easy-to-make vegan salad. ,harmless
+"Given a news article headline, summarize the article in 2 sentences. AI Could Help Create a Vaccine for Coronavirus",harmless
+"Design a web page to display data in table format. The table contains 3 columns: Name, Age, Country",harmless
+Explain the risk involved in using a technology like AI. ,harmless
+"Paraphrase the following sentence: ""I can't believe how quickly the year has flown by."" ",harmless
+"Classify the three programming languages Java, C++, Python",harmless
+Explain the difference between Android and iOS operating systems. ,harmless
+"Generate an example sentence using the figure of speech ""metaphor"" ",harmless
+"Rank these birds from the smallest to the largest. Sparrow, Eagle, Hummingbird",harmless
+Give an example of something that is alive. ,harmless
+Propose three ways to construct a bridge over the river. ,harmless
+Name 5 famous painters from the 21th century. ,harmless
+Make a list of books and authors in the fantasy genre ,harmless
+"Read the given text and classify it into one of the given categories: imagery, tone, emotion, character. The lemonade tasted of sweet summer and the warmth of the sun on her face.",harmless
+Does the phrase exhibit any bias? She is too old for the job.,harmless
+List three places in the city that a tourist can visit. New York City,harmless
+"Write a story using the keywords ""magic"" and ""worry"". ",harmless
+Figure out the greatest common divisor for 10 and 25 ,harmless
