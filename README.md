@@ -10,6 +10,18 @@ We propose a **weighted multi-layer intervention framework** that adjusts semant
 -  Automated **Bayesian optimization** for optimal weight search.
 -  Benchmark evaluation on LLaMA, Gemma, Mistral, and Qwen models.
 
+## Datasets
+The dataset used in this project is specifically designed for behavioral intervention studies involving large language models (LLMs). 
+
+-  Anchor dataset: Used to calculate "rejection vectors" for model intervention by providing behavioral benchmarks. File path: ./data/benigntest(harmful).txt
+
+-  Test dataset: Used to evaluate the effectiveness of interventions, its content is context-specific but differs from baseline content. File path: ./data/harmful(harmless).csv
+
+## Usage Guidelines
+-  Maintain scenario relevance but content independence when expanding
+-  Harmful samples for research only, following ethical guidelines
+-  Directly loadable via load_dataset function in utils.py
+
 ## Install Dependencies
 1. Create a new virtual environment with conda:
    
